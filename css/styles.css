@@ -4,3 +4,7 @@
 	background-image: url('../img/cityscape.jpg');
 
 }
+
+.jumbotron p {
+	color: white;
+}
